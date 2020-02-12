@@ -44,6 +44,7 @@ public class MainActivity extends AppCompatActivity {
         MyLogClass.d(R.id.menu_bab1_help);
 
         return true;
+
     }
 
     @Override
