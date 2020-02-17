@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BottomAppBarTestApp</string>
+    <string name="str_tv_main2_info">Click the button to go back</string>
 </resources>
